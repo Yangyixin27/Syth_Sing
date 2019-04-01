@@ -1,0 +1,31 @@
+Task Assignments:
+
+1. James Bunning
+	a. Collecting data with annotations
+	b. Implement timbre model
+	c. Train and test timbre model
+	d. Begin preparing demo
+
+2. Mu Yang
+	a. Collecting data with annotations
+	b. Implement general Wavenet architecture
+	c. Train and test baseline model on NIST-SONG database
+	d. Transfer learning with autoencoder implementation
+
+3. Sharada Murali
+	a. Collecting data with annotations
+	b. Implement pitch model
+	c. Train and test pitch model
+	d. Transfer learning with autoencoder implementation
+
+4. Shiyu Mou
+	a. Collecting data with annotations
+	b. Implement general Wavenet model
+	c. Train and test baseline model on NIST-SONG database
+	d. Implement transfer learning with one-hot encoding
+
+5. Yixin Yang
+	a. Collecting data with annotations
+	b. Implement phonetic timing model
+	c. Train and test phonetic timing model
+	d. Implement transfer learning with one-hot encoding
